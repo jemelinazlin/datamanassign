@@ -16,7 +16,6 @@ nav {
     overflow-y: auto;        /* 🔥 THIS enables vertical scrolling */
 }
 
-/* LINKS */
 nav a {
     display: block;
     color: white;
